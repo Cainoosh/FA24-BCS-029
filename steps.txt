@@ -1,0 +1,5 @@
+1. make a class in notepad
+2. save the file with extension ".java". The name of the file should be in quotation marks.
+3. open command prompt and go to the folder where the file is stored.
+4. use javac to compile the file by writing "javac FA24BCSB.java" and pressing enter.
+5. the CLASS file will be in the same folder as the .java file.
